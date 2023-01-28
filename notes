@@ -1,0 +1,6 @@
+npm init
+pm install --save express body-parser //
+npm install --save-dev nodemon        // nodeman package which saves changes
+ nodemon app.js
+ npm install --save express-graphql // graphql package
+ npm install --save express-graphql graphql
